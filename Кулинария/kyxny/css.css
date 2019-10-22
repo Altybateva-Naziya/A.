@@ -1,0 +1,23 @@
+.b{
+    margin: 0px;
+    background: url("pistachio.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    background-color: black;
+    height: 64px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.head-element{
+    background-color: black;
+    height: 80px;
+    color: white;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: 30px;
+}
